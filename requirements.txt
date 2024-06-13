@@ -5,4 +5,4 @@ spotipy
 yt-dlp
 python-dotenv
 langdetect
-youtube-serach
+youtube-search
