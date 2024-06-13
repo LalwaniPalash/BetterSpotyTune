@@ -1,0 +1,8 @@
+lyricsgenius
+mutagen
+requests
+spotipy
+yt-dlp
+python-dotenv
+langdetect
+youtube-serach
