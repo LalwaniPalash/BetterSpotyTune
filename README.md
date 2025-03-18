@@ -13,7 +13,7 @@ This project allows users to download playlists from Spotify, extract audio from
 
 ## Installation
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/LalwaniPalash/BetterSpotyTune.git`
 2. Install dependencies:
    - Python 3.x
    - Use pip to install dependencies: `pip install -r requirements.txt`
@@ -27,7 +27,7 @@ This project allows users to download playlists from Spotify, extract audio from
     CLIENT_SECRET=your-client-secret
     GENIUS_ACCESS_TOKEN=your-genius-access-token
     ```
-2. Run the script with the desired playlist link: `python main.py`
+2. Run the script with the desired playlist link: `python <fileName>.py`
 3. Follow the prompts to select the desired audio format and confirm the download.
 
 ## Known Errors
